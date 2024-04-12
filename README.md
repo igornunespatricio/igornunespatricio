@@ -6,11 +6,12 @@ I'm Igor Nunes, a bachelor in Statistics and passionate about data science. I lo
 
 🚀 If you want to colaborate, give suggestions or just talk about data science stuff, let's connect! Feel free to reach me out on LinkedIn or Instagram below!
 
-
-<a href="https://www.linkedin.com/in/nunespatricioigor">
-  <img src="https://github.com/igornunespatricio/igornunespatricio/blob/main/images/LinkedIn_icon.svg" width="30" />
-</a>
-
-<a href="https://www.instagram.com/nunespatricioigor/">
-  <img src="https://github.com/igornunespatricio/igornunespatricio/blob/main/images/instagram-logo.png" width="30" style="border-radius: 50%" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/nunespatricioigor">
+    <img src="https://github.com/igornunespatricio/igornunespatricio/blob/main/images/LinkedIn_icon.svg" width="30" />
+  </a>
+  &nbsp;&nbsp
+  <a href="https://www.instagram.com/nunespatricioigor/">
+    <img src="https://github.com/igornunespatricio/igornunespatricio/blob/main/images/instagram-logo.png" width="30" style="border-radius: 50%" />
+  </a>
+</div>  
